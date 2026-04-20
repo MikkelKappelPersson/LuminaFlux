@@ -32,3 +32,5 @@ This document outlines the libraries and tools selected for performing Bit-Depth
 - **Python 3.12+**: Utilizing modern typing and performance optimizations.
 - **Jupyter Notebooks**: For rapid prototyping, visualization of filters, and comparative analysis of different techniques.
 - **Matplotlib**: For plotting frequency spectra (FFT) and side-by-side metric comparisons.
+- **ipympl**: Enables interactive Matplotlib features (zooming/panning) directly in VS Code notebooks, which is crucial for inspecting banding artifacts.
+- **Pillow (PIL)**: For standardized image loading and metadata handling.
