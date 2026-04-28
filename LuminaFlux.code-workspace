@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "LuminaScale",
+			"path": "../LuminaScale"
 		}
 	],
 	"settings": {}
