@@ -208,3 +208,8 @@ __marimo__/
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# assets
+
+assets/srgb_8u/
+assets/srgb_32f/
